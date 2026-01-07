@@ -1,0 +1,31 @@
+Conferencia,Pos,Time,V,D,PPG,OPPG,LogoID
+Leste,1,Detroit Pistons,27,9,118.8,112.1,1610612765
+Leste,2,Boston Celtics,23,12,117.8,110.5,1610612738
+Leste,3,New York Knicks,23,13,119.6,115.1,1610612752
+Leste,4,Toronto Raptors,22,15,114.5,112.3,1610612761
+Leste,5,Philadelphia 76ers,19,15,117.2,116.4,1610612755
+Leste,6,Orlando Magic,20,16,117.1,115.4,1610612753
+Leste,7,Miami Heat,20,16,120.8,117.3,1610612748
+Leste,8,Cleveland Cavaliers,20,17,119.2,116.8,1610612739
+Leste,9,Chicago Bulls,17,19,117.8,121.6,1610612741
+Leste,10,Atlanta Hawks,17,21,118.5,119.9,1610612737
+Leste,11,Milwaukee Bucks,16,20,113.3,115.5,1610612749
+Leste,12,Charlotte Hornets,13,23,116.1,117.9,1610612766
+Leste,13,Brooklyn Nets,11,22,109.5,114.3,1610612751
+Leste,14,Washington Wizards,9,25,113.4,124.4,1610612764
+Leste,15,Indiana Pacers,6,30,110.6,119.7,1610612754
+Oeste,1,Oklahoma City Thunder,30,7,121.2,107.6,1610612760
+Oeste,2,San Antonio Spurs,25,10,119.7,114.2,1610612759
+Oeste,3,Denver Nuggets,24,12,124.4,118.3,1610612743
+Oeste,4,Houston Rockets,22,11,119.4,111.0,1610612745
+Oeste,5,Los Angeles Lakers,22,11,117.3,117.2,1610612747
+Oeste,6,Minnesota Timberwolves,23,13,119.6,114.6,1610612750
+Oeste,7,Phoenix Suns,21,15,114.8,112.8,1610612756
+Oeste,8,Golden State Warriors,19,18,114.8,113.6,1610612744
+Oeste,9,Portland Trail Blazers,17,20,116.9,119.6,1610612757
+Oeste,10,Memphis Grizzlies,15,20,116.0,117.0,1610612763
+Oeste,11,LA Clippers,13,22,112.1,114.2,1610612746
+Oeste,12,Dallas Mavericks,13,23,113.5,117.5,1610612742
+Oeste,13,Utah Jazz,12,23,119.6,127.0,1610612762
+Oeste,14,Sacramento Kings,8,28,110.3,122.3,1610612758
+Oeste,15,New Orleans Pelicans,8,29,115.2,123.1,1610612740
